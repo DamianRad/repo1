@@ -5,7 +5,7 @@ import HUD.Hud;
 import Objects.Bonus;
 import Objects.Player;
 import Objects.Wind;
-import TileMap.Background;
+import Background.Background;
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.event.KeyEvent;
